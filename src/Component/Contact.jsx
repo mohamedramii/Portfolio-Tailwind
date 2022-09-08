@@ -24,7 +24,7 @@ const Contact = () => {
           placeholder='Name'
           name='name'
         />
-        <inputnpm install react-scroll
+        <input
           className='my-4 p-2 bg-[#ccd6f6]'
           type='text'
           placeholder='Email'
