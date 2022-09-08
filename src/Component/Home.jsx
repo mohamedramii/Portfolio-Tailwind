@@ -1,5 +1,7 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
+import { Link } from "react-scroll";
+
 const Home = () => {
   return (
     <div
@@ -65,6 +67,7 @@ const Home = () => {
         border-2 border-sky-500
         
         '>
+          <Link to='work' smooth={true} duration={500}>
           <button
             className='
                 text-white
@@ -86,6 +89,7 @@ const Home = () => {
               <HiArrowNarrowRight className='ml-4' />
             </span>
           </button>
+   </Link>
         </div>
       </div>
     </div>
