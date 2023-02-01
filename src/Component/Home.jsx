@@ -5,15 +5,13 @@ const Home = () => {
     <div
       name='home'
       className='
-    border-2
-         border-sky-500
+   
     h-screen w-full bg-[#0a192f]'>
       {/* Container */}
 
       <div
         className='
-        border-2
-         border-sky-500
+      
         max-w-[1000px]
         mx-auto
         px-8
@@ -49,8 +47,7 @@ const Home = () => {
         </h2>
         <p
           className='
-        border-2
-         border-sky-500
+       
             text-[#8892b0]
             py-4
 
@@ -62,7 +59,7 @@ const Home = () => {
         </p>
         <div
           className='
-        border-2 border-sky-500
+   
         
         '>
           <button
