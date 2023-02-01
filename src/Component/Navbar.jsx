@@ -142,7 +142,7 @@ const Navbar = () => {
                   text-gray-300
                   font-semibold
                   '
-              href=''>
+              href='https://www.linkedin.com/in/mohamed-ramy-1bb625216/'>
               Linkedin <FaLinkedin size={30} />
             </a>
           </li>
@@ -168,7 +168,7 @@ const Navbar = () => {
                   text-gray-300
                   font-semibold
                   '
-              href=''>
+              href='https://github.com/mohamedramii'>
               Github <FaGithub size={30} />
             </a>
           </li>
